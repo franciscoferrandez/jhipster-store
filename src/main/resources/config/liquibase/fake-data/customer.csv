@@ -1,11 +1,5 @@
-id;first_name;last_name;gender;email;phone;address_line;city;country
-1;Maynard;Jacobson;OTHER;"~bS/@].$N$v~B";026.954.0023 x96261;Berkshire Designer;New Margarettton;Saint Martin
-2;Friedrich;Feil;FEMALE;"2y1""f@K`ay5C.)""";1-807-813-5160 x853;red firewall open-source;New Autumn;Chile
-3;Tristin;Pollich;MALE;"u;f2j?@XM=.~sgX";1-586-226-1895 x55229;Agent;Stephanhaven;New Caledonia
-4;Clair;Hauck;OTHER;"6Pq{8U@PR,3.<Z^";(680) 917-8665 x03196;Home Gloves Latvia;Isaiasfurt;Zambia
-5;Dana;Dare;FEMALE;"n:2C;L@~s.g7cj";505.362.2259 x934;Investor users dot-com;Kirstenfurt;Lesotho
-6;Salvatore;Dietrich;MALE;"C5iuZ@hmM.}";994.929.8370;Tactics architectures Planner;Wuckerthaven;Barbados
-7;Eleanora;Gutmann;FEMALE;"L@ln2Ogu.F";695-002-6693 x12528;program;Bridiechester;Pitcairn Islands
-8;Floy;Lueilwitz;FEMALE;"FP@oEl.I";(505) 671-6073;Unbranded Fresh Pants Tools California;New Margarete;Antigua and Barbuda
-9;Erling;Kohler;MALE;"$&Z@I=K.9qE(";083-351-3587;lavender;Jacquelynton;Sudan
-10;Amely;Dietrich;MALE;"Y@hjRX'y.2K";1-073-244-7020;Brand;Keeblerchester;Panama
+id;first_name;last_name;gender;email;phone;address_line;city;country;user_id
+1;Garnett;Schinner;FEMALE;"9O}@Kd.'X]<5";1-617-600-9789;Electronics;Deckowstad;French Southern Territories;1
+2;Judge;Adams;FEMALE;"HIiQ@byS.Y,";(076) 135-9540 x866;Centers;Port Trystanshire;Mauritius;2
+3;Gerhard;Gutmann;OTHER;"S[u^@Z'.%K0]'";(801) 932-1673 x452;Georgia Industrial;Ryanview;United Kingdom;3
+4;Soledad;Walter;FEMALE;"o7@E>.IW";725.853.9265;Plastic;Cummerataton;American Samoa;4

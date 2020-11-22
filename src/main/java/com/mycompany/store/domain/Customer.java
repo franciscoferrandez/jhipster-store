@@ -58,7 +58,8 @@ public class Customer implements Serializable {
     @Column(name = "country", nullable = false)
     private String country;
 
-    @OneToOne(fetch = FetchType.LAZY)
+    @OneToOne(fetch = FetchType.LAZY, optional = false)
+    @NotNull
 
     @JoinColumn(unique = true)
     private User user;
