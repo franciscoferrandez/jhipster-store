@@ -27,6 +27,8 @@ export class ProductComponent implements OnInit, OnDestroy {
   previousPage: any;
   reverse: any;
 
+  filter: string;
+
   constructor(
     protected productService: ProductService,
     protected parseLinks: JhiParseLinks,
