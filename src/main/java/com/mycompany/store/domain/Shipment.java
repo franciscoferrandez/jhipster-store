@@ -33,7 +33,8 @@ public class Shipment implements Serializable {
     @Column(name = "details")
     private String details;
 
-    @ManyToOne(fetch = FetchType.LAZY)
+    @ManyToOne(fetch = FetchType.LAZY, optional = false)
+    @NotNull
     @JsonIgnoreProperties("shipments")
     private Invoice invoice;
 

@@ -1,11 +1,11 @@
-id;placed_date;status;code
-1;2020-11-21T01:12:39;COMPLETED;Enterprise-wide Benin
-2;2020-11-20T17:52:31;COMPLETED;Operations alarm
-3;2020-11-20T21:43:16;COMPLETED;strategic hack
-4;2020-11-21T10:40:48;CANCELLED;Colombian Peso Unidad de Valor Real Bridge Handmade
-5;2020-11-20T23:13:37;PENDING;Personal Loan Account
-6;2020-11-20T19:47:00;CANCELLED;payment Soap
-7;2020-11-21T09:19:55;CANCELLED;North Dakota incubate deposit
-8;2020-11-21T00:01:39;CANCELLED;Dynamic black
-9;2020-11-21T09:21:39;COMPLETED;Generic
-10;2020-11-20T18:38:01;COMPLETED;open-source hybrid
+id;placed_date;status;code;customer_id
+1;2020-11-22T05:44:39;COMPLETED;bricks-and-clicks Concrete Global;1
+2;2020-11-22T01:16:14;PENDING;Equatorial Guinea Vision-oriented;2
+3;2020-11-22T20:05:31;PENDING;cross-media;3
+4;2020-11-22T04:54:14;PENDING;Unbranded Cheese Dynamic;4
+5;2020-11-22T07:46:21;PENDING;Home Gloves Latvia;1
+6;2020-11-22T05:43:16;CANCELLED;Networked;2
+7;2020-11-22T14:31:01;PENDING;calculating withdrawal Nevada;3
+8;2020-11-22T20:04:42;COMPLETED;Strategist target;4
+9;2020-11-22T00:55:04;PENDING;Cambridgeshire white sensor;1
+10;2020-11-22T15:35:17;COMPLETED;Applications Response Human;1
