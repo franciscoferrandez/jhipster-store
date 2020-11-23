@@ -36,7 +36,7 @@
     "otherModules": [],
     "enableTranslation": true,
     "nativeLanguage": "en",
-    "languages": ["en", "zh-cn", "es"],
+    "languages": ["en", "zh-cn", "es", "fr"],
     "blueprints": []
   }
 }
